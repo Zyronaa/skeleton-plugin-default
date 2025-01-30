@@ -1,13 +1,13 @@
 using System;
 using System.Threading.Tasks;
 using JetBrains.Annotations;
-using NFive.SDK.Client.Commands;
-using NFive.SDK.Client.Communications;
-using NFive.SDK.Client.Events;
-using NFive.SDK.Client.Interface;
-using NFive.SDK.Client.Services;
-using NFive.SDK.Core.Diagnostics;
-using NFive.SDK.Core.Models.Player;
+using Zyronaa.SDK.Client.Commands;
+using Zyronaa.SDK.Client.Communications;
+using Zyronaa.SDK.Client.Events;
+using Zyronaa.SDK.Client.Interface;
+using Zyronaa.SDK.Client.Services;
+using Zyronaa.SDK.Core.Diagnostics;
+using Zyronaa.SDK.Core.Models.Player;
 using {{org}}.{{project}}.Client.Overlays;{{ if shared }}
 using {{org}}.{{project}}.Shared;{{ end }}
 
